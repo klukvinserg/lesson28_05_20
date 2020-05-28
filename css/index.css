@@ -1,0 +1,23 @@
+#one {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 1px solid black;
+    margin: 20px;
+    position: absolute; 
+    left: 0;
+    top: 0; 
+} 
+
+
+#two {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 20px;
+    margin-left: 200px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    
+}
